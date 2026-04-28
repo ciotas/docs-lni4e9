@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yhikpz.biggamingwin.online/sitemap.xml
